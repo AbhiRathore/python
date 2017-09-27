@@ -1,0 +1,1 @@
+print("the first python on date 8 september: remember remember it's 8th of september")
